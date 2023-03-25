@@ -1,5 +1,5 @@
 # Minestorm Project
 by:<br/>
 -Mathieu Robion,<br/>
--Osvalo Luanda,<br/>
+-Osvaldo Luanda,<br/>
 -Victor Caraulan <br/>
